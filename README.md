@@ -7,7 +7,7 @@ A list of useful git commands
    ``` git init ```
 - Copy in the root folder of the project the README and LICENSE files (if you want to)
 - Add a proper .gitgnore file
-- Execute : ```git remote add origin <remote-url> ``
+- Execute : ```git remote add origin <remote-url> ```
 - Execute : ```git commit -m 'First Commit' ```
 - To push the content of the local project to the remote repo, issue:
   ``` git push --set-upstream origin master ```
